@@ -50,9 +50,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Blog
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
+    description: "Thoughts and ideas about blockchains (mostly ...)"
     feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
