@@ -52,5 +52,5 @@ collections:
   posts:
     title: Blog
     output: true
-    description: "Thoughts and ideas about blockchains (mostly ...) by chaingrok@gmail.com"
+    description: "Thoughts and ideas about blockchains (mostly ...) by [chaingrok@gmail.com](mailto:chaingrok@gmail.com)"
     feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
