@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://www.chaingrok.com'
 baseurl: ''
-title: 'ChainGrok [chaingrok@gmail.com](chaingrok@gmail.com)'
+title: 'ChainGrok (chaingrok@gmail.com) '
 description: 'This is my new website'
 permalink: pretty
 logo: "https://www.chaingrok.com/img/chaingrok-thumbnail.png"
@@ -41,6 +41,10 @@ navigation_header:
 - title: blog
   url: /blog/
 - title: chaingrok@gmail.com
+
+# Social links in footer
+social_links:
+    twitter: chaingrok
 
 # Footer nav
 navigation_footer:
