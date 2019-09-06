@@ -18,7 +18,7 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-remote-theme
-- jekyll-autolink_email
+
 
 gems:
   - jekyll-autolink_email
