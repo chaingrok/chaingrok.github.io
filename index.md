@@ -1,5 +1,5 @@
 ---
-title: Welcome to my website
+title: Welcome the website of ChainGrok
 layout: page
 feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
 feature_text: |
