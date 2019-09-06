@@ -6,4 +6,4 @@ feature_text: |
    
 ---
 
-There isn't much going on here yet, but watch this space
+Watch this space to learn more about our activities around blockchains.
