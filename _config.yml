@@ -18,10 +18,7 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-remote-theme
-
-
-gems:
-  - jekyll-autolink_email
+- jekyll-autolink_email
 
 # Site settings
 url: 'https://www.chaingrok.com'
@@ -55,5 +52,5 @@ collections:
   posts:
     title: Blog
     output: true
-    description: "Thoughts and ideas about blockchains (mostly ...)"
+    description: "Thoughts and ideas about blockchains (mostly ...) by chaingrok@gmail.com"
     feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
