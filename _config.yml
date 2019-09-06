@@ -18,6 +18,7 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-remote-theme
+- jekyll-autolink_email
 
 # Site settings
 url: 'https://www.chaingrok.com'
@@ -40,7 +41,6 @@ navigation_header:
 - title: blog
   url: /blog/
 - title: chaingrok@gmail.com
-  url: /
 
 # Footer nav
 navigation_footer:
