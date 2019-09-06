@@ -6,4 +6,4 @@ categories:
 feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
 ---
 
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+This is our first blog post. Somewhat short but stay tuned for more!...
