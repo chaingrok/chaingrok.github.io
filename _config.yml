@@ -21,6 +21,9 @@ plugins:
 - jekyll-autolink_email
 
 # Site settings
+
+google_analytics: 'UA-147622193-1'
+google_analytics_anonymize_ip : off
 url: 'https://www.chaingrok.com'
 baseurl: ''
 title: 'ChainGrok (chaingrok@gmail.com) '
