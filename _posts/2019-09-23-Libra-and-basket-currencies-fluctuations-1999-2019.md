@@ -44,7 +44,7 @@ It is interesting to note that the only difference in the choice of the fiats is
 
 Anyway, those multi-currency assets like Libra or XDR do, by design, fluctuate over time. XDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, its stability is not of primary importance.
 
-On a daily basis, in the period 1999 to 2019, the current  value of Libra over the US dollar would have fluctuated as depicted on figure 2: it would have varied between approximately 0.85 and 1.06 USD. So, with a central value of 0.95 USD and a spread of +/- 10% around it. 
+On a daily basis, in the period 1999 to 2019, the current  value of Libra over the US dollar would have fluctuated as depicted on Figure 2: between approximately 0.85 and 1.06 USD for 1 Libra. So, with a central value of 0.95 USD and a spread of +/- 10% around it. 
 
 ![Figure 2- Libra daily value over USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-daily-value-over-USD-1999-2019.png "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
                               Figure 2 - Libra daily value over USD: 1999 -> 2019 (right click > View image in your browser to enlarge)
