@@ -41,7 +41,7 @@ Indeed, the financial structure of Libra is based on the same principles as the 
 
 It is interesting to note that the only difference in the choice of the fiats is the Chinese Yuan replace by the Singaporean Dollar. Due to the current race[5] between China and Facebook around cryptocurrencies?
 
-Anyway, those multi-currency assets like Libra or XDR do, by design, fluctuate over time. XDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, his stability is not of primary importance.
+Anyway, those multi-currency assets like Libra or XDR do, by design, fluctuate over time. XDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, its stability is not of primary importance.
 
 On a daily basis, in the period 1999 to 2019, the current  value of Libra over the US dollar would have fluctuated as depicted on figure 2:
 
