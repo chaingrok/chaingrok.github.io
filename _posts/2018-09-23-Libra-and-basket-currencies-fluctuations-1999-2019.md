@@ -54,7 +54,7 @@ So, in Figure 1 above, to see what the future could look like based on history, 
 
 The table 2 below reports the maximum and minimum values to the dollar over those 20 years:
 
-![Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-fluctuations-1999-2019.png. "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
+![Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-peak-fluctuations-1999-2019.png. "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
 
 
 Some conclusions that can be drawn out this chart:
