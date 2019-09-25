@@ -7,7 +7,7 @@ feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
 comments: true
 ---
 
-[Data used for this post can be shared: send us an email at [chaingrok@gmail.com](mailto:chaingrok@gmail.com)]
+[Currency exchanges rates used for this article are published daily by the European Central Bank. They can be shared: send us an email at [chaingrok@gmail.com](mailto:chaingrok@gmail.com)]
 
 ![Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-fluctuations-1999-2019.png "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
                               Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 (right click > View image in your browser to enlarge)
