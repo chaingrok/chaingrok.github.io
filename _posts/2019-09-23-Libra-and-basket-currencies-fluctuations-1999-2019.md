@@ -23,7 +23,7 @@ Libra wants to be a stablecoin: as per Wikipedia[2] _&quot;Stablecoins are crypt
 
 Regarding stablecoins, the Libra Association pushes the envelope: the most famous and successful fiat-based ones like Tether, USDC, Gemini Dollar are based on a single currency, most often the US Dollar, while Libra&#39;s basket is composed of five of them.
 
-Why so? Probably because Libra want to be:
+Why so? Probably because Libra wants to be:
 
 - Global: you cannot aim to be used worldwide if you rely on one single currency. Trust for an asset-based stablecoin will build easier by end-users if they see their home currency represented.
 - Neutral: similarly, you cannot be deemed as neutral if you put all your eggs in one single monetary basket and get consequently directly bound to the decisions of the corresponding central bank.
@@ -43,19 +43,24 @@ It is interesting to note that the only difference in the choice of the fiats is
 
 Anyway, those multi-currency assets like Libra or XDR do, by design, fluctuate over time. XDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, his stability is not of primary importance.
 
-But, for Libra as a stablecoin, it is different: its designers probably want it to be as stable as possible over long period of time so that trust can build, and usage can grow.  Nobody want goods to have today a price very different today from what it was yesterday!
+On a daily basis, in the period 1999 to 2019, the current  value of Libra over the US dollar would have fluctuated as depicted on figure 2:
+
+![Figure 2- Libra daily value over USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-daily-value-over-USD-1999-2019.png "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
+                              Figure 2 - Libra daily value over USD: 1999 -> 2019 (right click > View image in your browser to enlarge)
+
+But, for Libra as a stablecoin, the challenge may be different: its designers probably want it to be as stable as possible over long period of time so that trust can build, and usage can grow.  Nobody want goods to have today a price very different today from what it was yesterday!
 
 So, in Figure 1 above, to see what the future could look like based on history, for each currency in the Libra basket, we&#39;ve taken its exchange rate to the US dollar (as worldwide leading and reference currency), as published by the European Central Bank (ECB) since 1999 to see how this design satisfies the stability purpose. This chart represents the relative value of the depicted currencies to the USD, taking the current exchange rate as of Sept 23, 2019 as 100% for each of them. The historical value of Libra is computed based on the weighted sum corresponding to its structure.
 
-The table 2 below reports the maximum and minimum values to the dollar over those 20 years:
+The table 3 below reports the maximum and minimum values to the dollar over those 20 years:
 
-![Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-peak-fluctuations-1999-2019.png "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
-        Table 2 - Libra and basket currencies up/down peaks versus USD: 1999 -> 2019
+![Table 3 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-peak-fluctuations-1999-2019.png "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
+        Table 3 - Libra and basket currencies up/down peaks versus USD: 1999 -> 2019
 
 Some conclusions that can be drawn out this chart:
 
-- Over the last 20 years, the currencies over which Libra is announced to be based fluctuate quite significantly. Deltas of 40% over the dollar has been the minimum.
-- If we take the US dollar as the worldwide reference due to its global weight, Libra performs better in terms of stability than any of the currencies in its basket with less than 25% of fluctuation while the fiats have deltas over 40%. In that sense, it would achieve its goal of better stability than single-asset cryptocurrencies.
+- Over the last 20 years, the currencies over which Libra is announced to be based fluctuate quite significantly. Deltas of 40% over the dollar in constant value (100% being today) has been the minimum.
+- If we take the US dollar as the worldwide reference due to its global weight, Libra performs better in terms of stability in constant value than any of the currencies in its basket with less than 25% of fluctuation while the fiats have deltas over 40%. In that sense, it would achieve its goal of better stability than single-asset cryptocurrencies.
 
 Based on those historical numbers, the theoretical conclusions bring some interesting questions for the Libra Association:
 
