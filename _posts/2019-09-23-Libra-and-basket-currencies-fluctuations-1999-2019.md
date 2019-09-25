@@ -4,6 +4,7 @@ title: Libra &amp; basket currencies fluctuations from 1999 to 2019
 categories:
 - General
 feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
+disqus: chaingrok
 ---
 
 [Data used for this post can be shared: send us an email at [chaingrok@gmail.com](mailto:chaingrok@gmail.com)]
