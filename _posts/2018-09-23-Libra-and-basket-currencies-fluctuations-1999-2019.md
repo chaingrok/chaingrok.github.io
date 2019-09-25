@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Hello World
+title: Libra &amp; basket currencies fluctuations from 1999 to 2019
 categories:
 - General
 feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
 ---
-
-# Libra &amp; basket currencies fluctuations from 1999 to 2019
 
 [Data used for this post can be shared: send us an email at [chaingrok@gmail.com](mailto:chaingrok@gmail.com)]
 
@@ -47,10 +45,7 @@ Anyway, those multi-currency assets like Libra or XDR do, by design, fluctuate o
 
 But, for Libra as a stablecoin, it is different: its designers probably want it to be as stable as possible over long period of time so that trust can build, and usage can grow.  Nobody want goods to have today a price very different today from what it was yesterday!
 
-So, in Figure 1 above, to see what the future could look like based on history, for each currency in the Libra basket, we&#39;ve taken its exchange rate to the US dollar (as worldwide leading and reference currency), as published by the European Central Bank (ECB) since 1999 to see how this design satisfies the stability purpose. This chart represents the relative value of the depicted currencies to the USD, taking the current exchange rate as of Sept 23
-
-# rd
-, 2019 as 100% for each of them. The historical value of Libra is computed based on the weighted sum corresponding to its structure.
+So, in Figure 1 above, to see what the future could look like based on history, for each currency in the Libra basket, we&#39;ve taken its exchange rate to the US dollar (as worldwide leading and reference currency), as published by the European Central Bank (ECB) since 1999 to see how this design satisfies the stability purpose. This chart represents the relative value of the depicted currencies to the USD, taking the current exchange rate as of Sept 23, 2019 as 100% for each of them. The historical value of Libra is computed based on the weighted sum corresponding to its structure.
 
 The table 2 below reports the maximum and minimum values to the dollar over those 20 years:
 
