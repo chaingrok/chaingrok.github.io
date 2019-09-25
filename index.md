@@ -6,4 +6,4 @@ feature_text: |
    
 ---
 
-Watch this space to learn more about our activities around blockchains.
+Just one blog post on Libra fluctuation over the past 20 years for the time being. But, stay tuned! More to come.
