@@ -30,6 +30,7 @@ title: 'ChainGrok (chaingrok@gmail.com) '
 description: 'This is my new website'
 permalink: pretty
 logo: "https://www.chaingrok.com/img/chaingrok-thumbnail.png"
+disqus: 'chaingrok'
 
 # Pagination
 paginate: 5
