@@ -8,8 +8,7 @@ feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
 
 [Data used for this post can be shared: send us an email at [chaingrok@gmail.com](mailto:chaingrok@gmail.com)]
 
-![Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-fluctuations-1999-2019.png. "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
-
+![Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-fluctuations-1999-2019.png "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
 
 The German newspaper Der Spiegel just reported1 the structure chosen by the Libra Association for the fiat currency basket underlying its eponymous stablecoin:
 
@@ -49,7 +48,7 @@ So, in Figure 1 above, to see what the future could look like based on history, 
 
 The table 2 below reports the maximum and minimum values to the dollar over those 20 years:
 
-![Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-peak-fluctuations-1999-2019.png. "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
+![Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-peak-fluctuations-1999-2019.png "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
 
 
 Some conclusions that can be drawn out this chart:
@@ -69,10 +68,12 @@ The effective &quot;birth&quot; of Libra is still somewhat remote, and many deta
 
 If our charts inspire you for remarks or additional questions, the comment section below is wide open for this purpose!
 
-
-
 [1] https://www.coindesk.com/facebook-reveals-libra-cryptos-currency-basket-breakdown-report
+
 [2] https://en.wikipedia.org/wiki/Stablecoin
+
 [3[ https://en.wikipedia.org/wiki/Special\_drawing\_rights
+
 [4] https://en.wikipedia.org/wiki/Special\_drawing\_rights#Currency\_basket
+
 [5] https://www.scmp.com/economy/china-economy/article/3017716/facebooks-libra-forcing-china-step-plans-its-own
