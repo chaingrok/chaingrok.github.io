@@ -20,7 +20,6 @@ The German newspaper Der Spiegel just reported [1] the structure chosen by the L
 5. Singaporean Dollar (SGD): 7%
 
 Libra wants to be a stablecoin: as per Wikipedia[2] _&quot;Stablecoins are cryptocurrencies designed to_ **minimize the volatility of the price of the stablecoin** _, relative to some &quot;stable&quot; asset or basket of assets. A stablecoin can be pegged to a cryptocurrency, fiat money, or to exchange-traded commodities (such as precious metals or industrial metals). Stablecoins redeemable in currency, commodities, or fiat money are said to be backed, whereas those tied to an algorithm are referred to as seigniorage-style (not backed).&quot;_
-
 Regarding stablecoins, the Libra Association pushes the envelope: the most famous and successful fiat-based ones like Tether, USDC, Gemini Dollar are based on a single currency, most often the US Dollar, while Libra&#39;s basket is composed of five of them.
 
 Why so? Probably because Libra want to be:
