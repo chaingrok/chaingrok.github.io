@@ -71,27 +71,8 @@ If our charts inspire you for remarks or additional questions, the comment secti
 
 
 
-1
-
-#
- https://www.coindesk.com/facebook-reveals-libra-cryptos-currency-basket-breakdown-report
-
-2
-
-#
- https://en.wikipedia.org/wiki/Stablecoin
-
-3
-
-#
- https://en.wikipedia.org/wiki/Special\_drawing\_rights
-
-4
-
-#
- https://en.wikipedia.org/wiki/Special\_drawing\_rights#Currency\_basket
-
-5
-
-#
- https://www.scmp.com/economy/china-economy/article/3017716/facebooks-libra-forcing-china-step-plans-its-own
+[1] https://www.coindesk.com/facebook-reveals-libra-cryptos-currency-basket-breakdown-report
+[2] https://en.wikipedia.org/wiki/Stablecoin
+[3[ https://en.wikipedia.org/wiki/Special\_drawing\_rights
+[4] https://en.wikipedia.org/wiki/Special\_drawing\_rights#Currency\_basket
+[5] https://www.scmp.com/economy/china-economy/article/3017716/facebooks-libra-forcing-china-step-plans-its-own
