@@ -9,8 +9,9 @@ feature_image: "https://www.chaingrok.com/img/chaingrok-header.png"
 [Data used for this post can be shared: send us an email at [chaingrok@gmail.com](mailto:chaingrok@gmail.com)]
 
 ![Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-fluctuations-1999-2019.png "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
+                              Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019
 
-The German newspaper Der Spiegel just reported1 the structure chosen by the Libra Association for the fiat currency basket underlying its eponymous stablecoin:
+The German newspaper Der Spiegel just reported [1] the structure chosen by the Libra Association for the fiat currency basket underlying its eponymous stablecoin:
 
 1. US dollar (USD): 50%
 2. Euro (EUR): 18%
@@ -18,7 +19,7 @@ The German newspaper Der Spiegel just reported1 the structure chosen by the Libr
 4. Japanese Yen (JPY): 11%
 5. Singaporean Dollar (SGD): 7%
 
-Libra wants to be a stablecoin: as per Wikipedia2_&quot;Stablecoins are cryptocurrencies designed to_ **minimize the volatility of the price of the stablecoin** _, relative to some &quot;stable&quot; asset or basket of assets. A stablecoin can be pegged to a cryptocurrency, fiat money, or to exchange-traded commodities (such as precious metals or industrial metals). Stablecoins redeemable in currency, commodities, or fiat money are said to be backed, whereas those tied to an algorithm are referred to as seigniorage-style (not backed).&quot;_
+Libra wants to be a stablecoin: as per Wikipedia[2] _&quot;Stablecoins are cryptocurrencies designed to_ **minimize the volatility of the price of the stablecoin** _, relative to some &quot;stable&quot; asset or basket of assets. A stablecoin can be pegged to a cryptocurrency, fiat money, or to exchange-traded commodities (such as precious metals or industrial metals). Stablecoins redeemable in currency, commodities, or fiat money are said to be backed, whereas those tied to an algorithm are referred to as seigniorage-style (not backed).&quot;_
 
 Regarding stablecoins, the Libra Association pushes the envelope: the most famous and successful fiat-based ones like Tether, USDC, Gemini Dollar are based on a single currency, most often the US Dollar, while Libra&#39;s basket is composed of five of them.
 
@@ -30,7 +31,7 @@ Why so? Probably because Libra want to be:
 
 But, more importantly, by mixing several fiat currencies in its underlying basket, the Libra Association tries to achieve the stability fostered by the purpose of its cryptocurrency: averaging over several rock-solid and well trusted fiat currencies should reduce the valuation &quot;bumps&quot;.
 
-Indeed, the financial structure of Libra is based on the same principles as the Special Drawing Rights3 (SDR) of the International Monetary Fund (IMF). The shares in the SDR basket are the following4:
+Indeed, the financial structure of Libra is based on the same principles as the Special Drawing Rights[3] (SDR) of the International Monetary Fund (IMF). The shares in the SDR basket are the following[4]:
 
 1. US dollar: 41.73%
 2. Euro: 30.93%
@@ -38,7 +39,7 @@ Indeed, the financial structure of Libra is based on the same principles as the 
 4. Japanese Yen: 8.33%
 5. British Pound: 8.09%
 
-It is interesting to note that the only difference in the choice of the fiats is the Chinese Yuan replace by the Singaporean Dollar. Due to the current race5 between China and Facebook around cryptocurrencies?
+It is interesting to note that the only difference in the choice of the fiats is the Chinese Yuan replace by the Singaporean Dollar. Due to the current race[5] between China and Facebook around cryptocurrencies?
 
 Anyway, those multi-currency assets like Libra or XDR do, by design, fluctuate over time. XDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, his stability is not of primary importance.
 
@@ -72,7 +73,7 @@ If our charts inspire you for remarks or additional questions, the comment secti
 
 [2] https://en.wikipedia.org/wiki/Stablecoin
 
-[3[ https://en.wikipedia.org/wiki/Special\_drawing\_rights
+[3] https://en.wikipedia.org/wiki/Special\_drawing\_rights
 
 [4] https://en.wikipedia.org/wiki/Special\_drawing\_rights#Currency\_basket
 
