@@ -20,7 +20,7 @@ The German newspaper Der Spiegel just [reported](https://www.coindesk.com/facebo
 4. Japanese Yen (JPY): 11%
 5. Singaporean Dollar (SGD): 7%
 
-Libra wants to be a stablecoin: as per Wikipedia[2] _&quot;Stablecoins are cryptocurrencies designed to_ **minimize the volatility of the price of the stablecoin** _, relative to some &quot;stable&quot; asset or basket of assets. A stablecoin can be pegged to a cryptocurrency, fiat money, or to exchange-traded commodities (such as precious metals or industrial metals). Stablecoins redeemable in currency, commodities, or fiat money are said to be backed, whereas those tied to an algorithm are referred to as seigniorage-style (not backed).&quot;_
+Libra wants to be a stablecoin: as per [Wikipedia](https://en.wikipedia.org/wiki/Stablecoin) _&quot;Stablecoins are cryptocurrencies designed to_ **minimize the volatility of the price of the stablecoin** _, relative to some &quot;stable&quot; asset or basket of assets. A stablecoin can be pegged to a cryptocurrency, fiat money, or to exchange-traded commodities (such as precious metals or industrial metals). Stablecoins redeemable in currency, commodities, or fiat money are said to be backed, whereas those tied to an algorithm are referred to as seigniorage-style (not backed).&quot;_
 
 Regarding stablecoins, the Libra Association pushes the envelope: the most famous and successful fiat-based ones like Tether, USDC, Gemini Dollar are based on a single currency, most often the US Dollar, while Libra&#39;s basket is composed of five of them.
 
@@ -32,7 +32,7 @@ Why so? Probably because Libra wants to be:
 
 But, more importantly, by mixing several fiat currencies in its underlying basket, the Libra Association tries to achieve the stability fostered by the purpose of its cryptocurrency: averaging over several rock-solid and well trusted fiat currencies should reduce the valuation &quot;bumps&quot;.
 
-Indeed, the financial structure of Libra is based on the same principles as the Special Drawing Rights[3] (SDR) of the International Monetary Fund (IMF). The shares in the SDR basket are the following[4]:
+Indeed, the financial structure of Libra is based on the same principles as the [Special Drawing Rights](https://en.wikipedia.org/wiki/Special\_drawing\_rights) (SDR) of the International Monetary Fund (IMF). The shares in the SDR basket are [structured in the following manner](https://en.wikipedia.org/wiki/Special\_drawing\_rights#Currency\_basket):
 
 1. US dollar: 41.73%
 2. Euro: 30.93%
@@ -40,7 +40,7 @@ Indeed, the financial structure of Libra is based on the same principles as the 
 4. Japanese Yen: 8.33%
 5. British Pound: 8.09%
 
-It is interesting to note that the only difference in the choice of the fiats is the Chinese Yuan replace by the Singaporean Dollar. Due to the current race[5] between China and Facebook around cryptocurrencies?
+It is interesting to note that the only difference in the choice of the fiats is the Chinese Yuan replace by the Singaporean Dollar. Due to the [current race](https://www.scmp.com/economy/china-economy/article/3017716/facebooks-libra-forcing-china-step-plans-its-own) between China and Facebook around cryptocurrencies?
 
 Anyway, those multi-currency assets like Libra or XDR do, by design, fluctuate over time. XDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, its stability is not of primary importance.
 
@@ -74,13 +74,3 @@ Based on those historical numbers, the theoretical conclusions bring some intere
 The effective &quot;birth&quot; of Libra is still somewhat remote, and many details of its exact shape remain to be negotiated with authorities and then be discussed / accepted in the upcoming Libra community. So, the months to come will deliver answers to those questions.
 
 If our charts inspire you for remarks or additional questions, the comment section below is wide open for this purpose!
-
-[1] https://www.coindesk.com/facebook-reveals-libra-cryptos-currency-basket-breakdown-report
-
-[2] https://en.wikipedia.org/wiki/Stablecoin
-
-[3] https://en.wikipedia.org/wiki/Special\_drawing\_rights
-
-[4] https://en.wikipedia.org/wiki/Special\_drawing\_rights#Currency\_basket
-
-[5] https://www.scmp.com/economy/china-economy/article/3017716/facebooks-libra-forcing-china-step-plans-its-own
