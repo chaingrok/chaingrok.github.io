@@ -12,7 +12,7 @@ comments: true
 ![Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-fluctuations-1999-2019.png "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
                               Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 (right click > View image in your browser to enlarge)
 
-The German newspaper Der Spiegel just reported [1] the structure chosen by the Libra Association for the fiat currency basket underlying its eponymous stablecoin:
+The German newspaper Der Spiegel just [reported](https://www.coindesk.com/facebook-reveals-libra-cryptos-currency-basket-breakdown-report) the structure chosen by the Libra Association for the fiat currency basket underlying its eponymous stablecoin:
 
 1. US dollar (USD): 50%
 2. Euro (EUR): 18%
