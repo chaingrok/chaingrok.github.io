@@ -60,11 +60,11 @@ Some conclusions that can be drawn out this chart:
 
 Based on those historical numbers, the theoretical conclusions bring some interesting questions for the Libra Association:
 
-1. Will the price of Libra on authorized exchange be forced by the Association to reflect those fluctuations when an end-user executes trades between Libras and its native fiat currency?
+1. Will the price of Libra on authorized exchanges be forced by the Association to reflect those fluctuations when an end-user executes trades between Libras and its native fiat currency?
 2. Will the Libra Association redefine the basket structure with different structure, i.e. different percentages or different currencies / assets, over time if stability is damaged by too vivid fluctuations of some components?
 3. Will they rebalance – in quasi real time - the effective fiat assets in the Libra Reserve if activities of end-users, i.e. trades of Libra against Fiat, tend to jeopardize the official structure toward a radically different composition
 4. If not, will the Libra Association give access – again in quasi real time – to third parties allowed to develop some arbitrage business in order to bring the current situation of the Reserve as close as possible to its theoretical composition?
-5. Will the regulators, the ones of Switzerland where the headquarters of the Libra Association are located and of the countries where Libra will be use, enforce some rules to deal one way or another with the points above, some of them to be potentially perceived as issues by those regulators?
+5. Will the regulators, especially the ones of Switzerland where the headquarters of the Libra Association are located and of the countries where Libra will be use, enforce some rules to deal one way or another with the points above, some of them to be potentially perceived as issues by those regulators?
 
 The effective &quot;birth&quot; of Libra is still somewhat remote, and many details of its exact shape remain to be negotiated with authorities and then be discussed / accepted in the upcoming Libra community. So, the months to come will deliver answers to those questions.
 
