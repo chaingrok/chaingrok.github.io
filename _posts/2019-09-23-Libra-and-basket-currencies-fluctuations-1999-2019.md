@@ -74,3 +74,46 @@ Based on those historical numbers, the theoretical conclusions bring some intere
 The effective &quot;birth&quot; of Libra is still somewhat remote, and many details of its exact shape remain to be negotiated with authorities and then be discussed / accepted in the upcoming Libra community. So, the months to come will deliver answers to those questions.
 
 If our charts inspire you for remarks or additional questions, the comment section below is wide open for this purpose!
+
+## _Computation_
+
+To make the equations simpler, let's back Libra by only 2 fiat currencies in its basket : 60% EUR and 40% GBP both priced in USD over time as it is our reference fiat currency
+
+1) Let's call Vt0(Libra) the intial value of the Libra Reserve at time t0 in the reference currency (USD here)
+
+So, Vt0(Libra) = Vt0(EUR) + Vt0(GBP)
+
+And Vt0(EUR) = Vt0(Libra) * r(EUR) where r(EUR) represents the ratio of EUR in the basket: 0.6 in our case
+    Vt0(GBP) = Vt0(Libra) * r(GBP) wher r(GBP) = 0.4 in our case
+
+2) Then, Qt0(EUR) represents the quantity of EUR at t0
+         Qt0(GBP) represents the quantity of GBP at t0
+         
+So, Qt0(EUR) = Vt0(EUR)/Ct0(EUR) where Ct0(EUR) represents the change / cost of EUR in reference currency (USD in our case)
+    Qt0(GBP) = Vt0(GBP)/Ct0(GBP) where Ct0(GBP) represents the change / cost of GBP in reference currency (USD in our case)
+    
+3) Consequently, 
+             Vt0(Libra) = Ct0(EUR)*Qt0(EUR) + Ct0(GBP)*Qt0(GBP)
+             
+4) Let's know find the fluctuation of the value of the Libra Reserve at new time t1 as quantities remains thhe same
+
+             Vt1(Libra) = Ct1(EUR)*Qt0(EUR) + Ct1(GBP)*Qt0(GBP)
+                        = Ct1(EUR)*(Vt0(EUR)/Ct0(EUR) + Ct1(GBP)*(Vt0(GRP)/Ct0(GBP)
+                        = Ct1(EUR)*((Vt0(Libra)*r(EUR))/Ct0(EUR)) + Ct1(EUR)*((Vt0(Libra)*r(GBP))/Ct0(GBP))
+                        = Vt0(Libra) (r(EUR) * Ct1(EUR)/Ct0(EUR) + R(GBP) * Ct1(GBP)/Ct0(GBP))
+                        
+So, at any given moment in time, the value of the Libra Reserve is the intial value multiplied by the weighted sum of the change ratio between current time and reference time. The weights are the ratios defined during design of the basket.
+
+The example above has been computed with 2 fiat currencies in the basket but the formula above extends to all the currencies of the official Libra basket
+
+Vt1(Libra) = Vt0(Libra) 
+               * (r(USD) * Ct1(USD)/Ct0(USD) 
+                  + r(EUR) * Ct1(EUR)/Ct0(EUR) 
+                  + r(GBP) * Ct1(GBP)/Ct0(GBP)
+                  + r(JPY) * Ct1(JPY)/Ct0(JPY)
+                  + r(SGD) * Ct1(SGD)/Ct0(SGD)
+                  )
+                  
+with r(USD)= 0.5, r(EUR)=0.18, r(GBP)=0.14, r(JPY)=0.11, r(SGD)=0.07. Of course, Ct0(USD) = Ct1(USD) = Ctn(USD) = 1 as the dollar is chosen as reference here.
+
+This final formula is the one applied
