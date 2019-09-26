@@ -9,7 +9,7 @@ comments: true
 
 [Currency exchanges rates used for this article are published daily by the European Central Bank. They can be shared: send us an email at [chaingrok@gmail.com](mailto:chaingrok@gmail.com)]
 
-![Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-fluctuations-1999-2019.png "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
+![Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-fluctuations-1999-2019.png "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
                               Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 (right click > View image in your browser to enlarge)
 
 The German newspaper Der Spiegel just [reported](https://www.coindesk.com/facebook-reveals-libra-cryptos-currency-basket-breakdown-report) the structure chosen by the Libra Association for the fiat currency basket underlying its eponymous stablecoin:
@@ -26,11 +26,11 @@ Regarding stablecoins, the Libra Association pushes the envelope: the most famou
 
 Why so? Probably because Libra wants to be:
 
-- Global: you cannot aim to be used worldwide if you rely on one single currency. Trust for an asset-based stablecoin will build easier by end-users if they see their home currency represented.
+- Global: you cannot aim to be used worldwide if you rely on one single currency. Trust for a currency-based stablecoin will build easier by end-users if they see their home currency represented.
 - Neutral: similarly, you cannot be deemed as neutral if you put all your eggs in one single monetary basket and get consequently directly bound to the decisions of the corresponding central bank.
 - Independent: the links to several currencies rather than a single one is supposed to better isolate the stablecoin from political choices, and the corresponding fluctuations, of one single asset.
 
-But, more importantly, by mixing several fiat currencies in its underlying basket, the Libra Association tries to achieve the stability fostered by the purpose of its cryptocurrency: averaging over several rock-solid and well trusted fiat currencies should reduce the valuation &quot;bumps&quot;.
+But, more importantly, by mixing several fiat currencies in its underlying basket, the Libra Association tries to achieve the mathematical stability fostered by the purpose of its cryptocurrency: averaging over several rock-solid and well trusted fiat currencies should reduce the valuation &quot;bumps&quot;.
 
 Indeed, the financial structure of Libra is based on the same principles as the [Special Drawing Rights](https://en.wikipedia.org/wiki/Special\_drawing\_rights) (SDR) of the International Monetary Fund (IMF). The shares in the SDR basket are [structured in the following manner](https://en.wikipedia.org/wiki/Special\_drawing\_rights#Currency\_basket):
 
@@ -42,16 +42,16 @@ Indeed, the financial structure of Libra is based on the same principles as the 
 
 It is interesting to note that the only difference in the choice of the fiats is the Chinese Yuan replace by the Singaporean Dollar. Due to the [current race](https://www.scmp.com/economy/china-economy/article/3017716/facebooks-libra-forcing-china-step-plans-its-own) between China and Facebook around cryptocurrencies?
 
-Anyway, those multi-currency assets like Libra or XDR do, by design, fluctuate over time. XDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, its stability is not of primary importance.
+Anyway, those multi-currency tokens like Libra or XDR do, by design, fluctuate over time. SDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, its stability is not of primary importance.
 
-But, for Libra as a stablecoin, the challenge may be different: its designers probably want it to be as stable as possible over long period of time so that trust can build, and usage can grow.  Nobody want goods to have today a price very different today from what it was yesterday!
+But, for Libra as a stablecoin, the challenge may be different: its designers probably want it to be as stable as possible over long period of time so that trust can build, and usage can grow.  Nobody wants for usual goods to have today a price very different from what it was yesterday!
 
 So, in Figure 1 above, to see what the future could look like based on history, for each currency in the Libra basket, we&#39;ve taken its exchange rate to the US dollar (as worldwide leading and reference currency), as published by the European Central Bank (ECB) since 1999 to see how this design satisfies the stability purpose. This chart represents the relative value of the depicted currencies to the USD, taking the current exchange rate as of Sept 23, 2019 as 100% for each of them. The historical value of Libra is computed based on the weighted sum corresponding to its structure (see final section Computation for details on the formula)
 
-The table 3 below reports the maximum and minimum values to the dollar over those 20 years:
+The table 2 below reports the maximum and minimum values to the dollar over those 20 years:
 
-![Table 3 - Libra and basket currencies versus USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-peak-fluctuations-1999-2019.png "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
-        Table 3 - Libra and basket currencies up/down peaks versus USD: 1999 -> 2019
+![Table 2 - Libra and basket currencies versus USD: 1999 -> 2019](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-peak-fluctuations-1999-2019.png "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
+        Table 2 - Libra and basket currencies up/down peaks versus USD: 1999 -> 2019
 
 Some conclusions that can be drawn out this chart:
 
