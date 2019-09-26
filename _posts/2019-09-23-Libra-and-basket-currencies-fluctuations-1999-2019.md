@@ -79,15 +79,15 @@ If our charts inspire you for remarks or additional questions, the comment secti
 
 To detail the equations that we use but make them initially simpler, let's back Libra by only 2 fiat currencies in its basket : 60% EUR and 40% GBP both priced in USD over time as it is our reference fiat currency
 
-1) Let's call Vt0(Libra) the intial value of the Libra Reserve at time t0 in the reference currency (USD here)
+1) Let's call Vt0(Libra) the intial value of the Libra Reserve at time t0 in the reference currency (USD here). So,
 
-    So, Vt0(Libra) = Vt0(EUR) + Vt0(GBP)
+    Vt0(Libra) = Vt0(EUR) + Vt0(GBP)
 
-    And Vt0(EUR) = Vt0(Libra) * r(EUR) where r(EUR) represents the ratio of EUR in the basket: 0.6 in our case
-        Vt0(GBP) = Vt0(Libra) * r(GBP) wher r(GBP) = 0.4 in our case
+    with Vt0(EUR) = Vt0(Libra) * r(EUR) where r(EUR) represents the ratio of EUR in the basket: 0.6 in our case
+         Vt0(GBP) = Vt0(Libra) * r(GBP) where r(GBP) = 0.4 in our case
 
 2) Then, Qt0(EUR) represents the quantity of EUR at t0 and Qt0(GBP) represents the quantity of GBP at t0. So,
-         
+
     Qt0(EUR) = Vt0(EUR)/Ct0(EUR) where Ct0(EUR) represents the change / cost of EUR in reference currency (USD in our case)
     Qt0(GBP) = Vt0(GBP)/Ct0(GBP) where Ct0(GBP) represents the change / cost of GBP in reference currency (USD in our case)
     
