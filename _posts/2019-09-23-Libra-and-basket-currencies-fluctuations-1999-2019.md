@@ -66,6 +66,8 @@ Based on those historical numbers, the theoretical conclusions bring some intere
 4. If not, will the Libra Association give access – again in quasi real time – to third parties allowed to develop some arbitrage business in order to bring the current situation of the Reserve as close as possible to its theoretical composition?
 5. Will the regulators, especially the ones of Switzerland where the headquarters of the Libra Association are located and of the countries where Libra will be use, enforce some rules to deal one way or another with the points above, some of them to be potentially perceived as issues by those regulators?
 
+But the ultimate question is probably the follwoing: will those fluctuations look acceptable to the potential user community (consumers, businesses, etc.) in order to build trust in this new currency and build a wide-scale and sustainable ecosystem on the long term?
+
 The effective &quot;birth&quot; of Libra is still somewhat remote, and many details of its exact shape remain to be negotiated with authorities and then be discussed / accepted in the upcoming Libra community. So, the months to come will deliver answers to those questions.
 
 If our charts inspire you for remarks or additional questions, the comment section below is wide open for this purpose!
