@@ -44,14 +44,9 @@ It is interesting to note that the only difference in the choice of the fiats is
 
 Anyway, those multi-currency assets like Libra or XDR do, by design, fluctuate over time. XDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, its stability is not of primary importance.
 
-On a daily basis, in the period 1999 to 2019, the current  value of Libra over the US dollar would have fluctuated as depicted on Figure 2: between approximately 0.85 and 1.06 USD for 1 Libra. So, with a central value of 0.95 USD and a spread of +/- 10% around it. 
-
-![Figure 2- Libra daily value over USD: 1999 -> 2019 ](https://www.chaingrok.com/img/Chaingrok-Libra-daily-value-over-USD-1999-2019.png "Figure 1 - Libra and basket currencies versus USD: 1999 -> 2019 ")
-                              Figure 2 - Libra daily value over USD: 1999 -> 2019 (right click > View image in your browser to enlarge)
-
 But, for Libra as a stablecoin, the challenge may be different: its designers probably want it to be as stable as possible over long period of time so that trust can build, and usage can grow.  Nobody want goods to have today a price very different today from what it was yesterday!
 
-So, in Figure 1 above, to see what the future could look like based on history, for each currency in the Libra basket, we&#39;ve taken its exchange rate to the US dollar (as worldwide leading and reference currency), as published by the European Central Bank (ECB) since 1999 to see how this design satisfies the stability purpose. This chart represents the relative value of the depicted currencies to the USD, taking the current exchange rate as of Sept 23, 2019 as 100% for each of them. The historical value of Libra is computed based on the weighted sum corresponding to its structure.
+So, in Figure 1 above, to see what the future could look like based on history, for each currency in the Libra basket, we&#39;ve taken its exchange rate to the US dollar (as worldwide leading and reference currency), as published by the European Central Bank (ECB) since 1999 to see how this design satisfies the stability purpose. This chart represents the relative value of the depicted currencies to the USD, taking the current exchange rate as of Sept 23, 2019 as 100% for each of them. The historical value of Libra is computed based on the weighted sum corresponding to its structure (see final section Computation for details on the formula)
 
 The table 3 below reports the maximum and minimum values to the dollar over those 20 years:
 
