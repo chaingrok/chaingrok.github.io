@@ -88,11 +88,11 @@ To detail the equations that we use but make them initially simpler, let's back 
 
 2) Then, Qt0(EUR) represents the quantity of EUR at t0 and Qt0(GBP) represents the quantity of GBP at t0. So,
 
-    Qt0(EUR) = Vt0(EUR)/Ct0(EUR) where Ct0(EUR) represents the change / cost of EUR in reference currency (USD in our case)
-    Qt0(GBP) = Vt0(GBP)/Ct0(GBP) where Ct0(GBP) represents the change / cost of GBP in reference currency (USD in our case)
+    Qt0(EUR) = Vt0(EUR)/Ct0(EUR) where Ct0(EUR) represents the cost (i.e. exchange rate) of EUR in reference currency (USD in our case)
+    Qt0(GBP) = Vt0(GBP)/Ct0(GBP) where Ct0(GBP) represents the cost of GBP in reference currency (USD in our case)
     
 3) Consequently, 
-             Vt0(Libra) = Ct0(EUR)*Qt0(EUR) + Ct0(GBP)*Qt0(GBP)
+    Vt0(Libra) = Ct0(EUR)*Qt0(EUR) + Ct0(GBP)*Qt0(GBP)
              
 4) Let's know find the fluctuation of the value of the Libra Reserve at new time t1 as quantities remains thhe same
 
