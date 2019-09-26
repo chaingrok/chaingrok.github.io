@@ -75,9 +75,9 @@ The effective &quot;birth&quot; of Libra is still somewhat remote, and many deta
 
 If our charts inspire you for remarks or additional questions, the comment section below is wide open for this purpose!
 
-## _Computation_
+##### _Computation_
 
-To make the equations simpler, let's back Libra by only 2 fiat currencies in its basket : 60% EUR and 40% GBP both priced in USD over time as it is our reference fiat currency
+To detail the equations that we use but make them initially simpler, let's back Libra by only 2 fiat currencies in its basket : 60% EUR and 40% GBP both priced in USD over time as it is our reference fiat currency
 
 1) Let's call Vt0(Libra) the intial value of the Libra Reserve at time t0 in the reference currency (USD here)
 
