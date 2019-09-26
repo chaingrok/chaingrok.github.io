@@ -26,11 +26,11 @@ Regarding stablecoins, the Libra Association pushes the envelope: the most famou
 
 Why so? Probably because Libra wants to be:
 
-- Global: you cannot aim to be used worldwide if you rely on one single currency. Trust for a currency-based stablecoin will build easier by end-users if they see their home currency represented.
+- Global: you cannot aim to be used worldwide if you rely on one single currency. Trust for a currency-based stablecoin will build more easily by end-users if they see their home currency represented.
 - Neutral: similarly, you cannot be deemed as neutral if you put all your eggs in one single monetary basket and get consequently directly bound to the decisions of the corresponding central bank.
-- Independent: the links to several currencies rather than a single one is supposed to better isolate the stablecoin from political choices, and the corresponding fluctuations, of one single asset.
+- Independent: the links to several currencies rather than a single one are supposed to better isolate the stablecoin from political choices, and the corresponding fluctuations, of one single asset.
 
-But, more importantly, by mixing several fiat currencies in its underlying basket, the Libra Association tries to achieve the mathematical stability fostered by the purpose of its cryptocurrency: averaging over several rock-solid and well trusted fiat currencies should reduce the valuation &quot;bumps&quot;.
+But, more importantly, by mixing several fiat currencies in its underlying basket, the Libra Association tries to achieve the mathematical stability fostered by the purpose of its cryptocurrency: averaging over several rock-solid, large-scale and well trusted fiat currencies should reduce the valuation &quot;bumps&quot;.
 
 Indeed, the financial structure of Libra is based on the same principles as the [Special Drawing Rights](https://en.wikipedia.org/wiki/Special\_drawing\_rights) (SDR) of the International Monetary Fund (IMF). The shares in the SDR basket are [structured in the following manner](https://en.wikipedia.org/wiki/Special\_drawing\_rights#Currency\_basket):
 
@@ -40,37 +40,37 @@ Indeed, the financial structure of Libra is based on the same principles as the 
 4. Japanese Yen: 8.33%
 5. British Pound: 8.09%
 
-It is interesting to note that the only difference in the choice of the fiats is the Chinese Yuan replace by the Singaporean Dollar. Due to the [current race](https://www.scmp.com/economy/china-economy/article/3017716/facebooks-libra-forcing-china-step-plans-its-own) between China and Facebook around cryptocurrencies?
+It is interesting to note that the only difference in the choice of the fiats is the Chinese Yuan replaced by the Singaporean Dollar. Due to the [current race](https://www.scmp.com/economy/china-economy/article/3017716/facebooks-libra-forcing-china-step-plans-its-own) between China and Facebook around cryptocurrencies?
 
-Anyway, those multi-currency tokens like Libra or XDR do, by design, fluctuate over time. SDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, its stability is not of primary importance.
+Anyway, those multi-currency tokens like Libra or SDR do, by design, fluctuate over time. SDR was not aimed at being a stablecoin but rather at being a mirror of economical activity. So, its stability is not of primary importance.
 
 But, for Libra as a stablecoin, the challenge may be different: its designers probably want it to be as stable as possible over long period of time so that trust can build, and usage can grow.  Nobody wants for usual goods to have today a price very different from what it was yesterday!
 
-So, in Figure 1 above, to see what the future could look like based on history, for each currency in the Libra basket, we&#39;ve taken its exchange rate to the US dollar (as worldwide leading and reference currency), as published by the European Central Bank (ECB) since 1999 to see how this design satisfies the stability purpose. This chart represents the relative value of the depicted currencies to the USD, taking the current exchange rate as of Sept 23, 2019 as 100% for each of them. The historical value of Libra is computed based on the weighted sum corresponding to its structure (see final section Computation for details on the formula)
+So, in Figure 1 above, to see what the future could look like based on history, for each currency in the Libra basket, we&#39;ve taken its exchange rate to the US dollar (as worldwide leading and reference currency), as published by the European Central Bank (ECB) since 1999 to see how this design satisfies the stability purpose. This chart represents the relative value of the depicted currencies to the USD, taking the current exchange rate as of Sept 23, 2019 as 100% for each of them. The historical value of Libra is computed based on the weighted sum corresponding to its structure. See final section Computation for details on the formula. It may seem unusual to take reference today and then go back in time,but we believe that it makes analysis easier in this specific situation. 
 
 The table 2 below reports the maximum and minimum values to the dollar over those 20 years:
 
 ![Table 2 - Libra and basket currencies versus USD: 1999 -> 2019](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-peak-fluctuations-1999-2019.png "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
         Table 2 - Libra and basket currencies up/down peaks versus USD: 1999 -> 2019
 
-Some conclusions that can be drawn out this chart:
+Some conclusions that can be extracted from these chart and table:
 
 - Over the last 20 years, the currencies over which Libra is announced to be based fluctuate quite significantly. Deltas of 40% over the dollar in constant value (100% being today) has been the minimum.
-- If we take the US dollar as the worldwide reference due to its global weight, Libra performs better in terms of stability in constant value than any of the currencies in its basket with less than 25% of fluctuation while the fiats have deltas over 40%. In that sense, it would achieve its goal of better stability than single-asset cryptocurrencies.
+- If we take the US dollar as the worldwide reference due to its global weight, Libra performs better in terms of stabilized value than any of the currencies in its basket with less than 25% of fluctuation while the fiats have deltas over 40%. In that sense, it would achieve its goal of better stability than single-asset cryptocurrencies.
 
-Based on those historical numbers, the theoretical conclusions bring some interesting questions for the Libra Association:
+Based on those historical numbers, the theoretical conclusions above bring some interesting operational questions for the Libra Association:
 
 1. Will the price of Libra on authorized exchanges be forced by the Association to reflect those fluctuations when an end-user executes trades between Libras and its native fiat currency?
 2. Will the Libra Association redefine the basket structure with different structure, i.e. different percentages or different currencies / assets, over time if stability is damaged by too vivid fluctuations of some components?
-3. Will they rebalance – in quasi real time - the effective fiat assets in the Libra Reserve if activities of end-users, i.e. trades of Libra against Fiat, tend to jeopardize the official structure toward a radically different composition
+3. Will they rebalance – in quasi real time - the effective fiat assets in the Libra Reserve if activities of end-users, i.e. trades of Libra against Fiat, tend to jeopardize the official structure toward a radically different composition, and consequently a different value of the Libra currency?
 4. If not, will the Libra Association give access – again in quasi real time – to third parties allowed to develop some arbitrage business in order to bring the current situation of the Reserve as close as possible to its theoretical composition?
-5. Will the regulators, especially the ones of Switzerland where the headquarters of the Libra Association are located and of the countries where Libra will be use, enforce some rules to deal one way or another with the points above, some of them to be potentially perceived as issues by those regulators?
+5. Will the regulators, especially the ones of Switzerland where the headquarters of the Libra Association are located and also those of the countries where Libra will be used, enforce some rules to deal one way or another with the points above, some of them to be potentially perceived as issues by those regulators?
 
-But the ultimate question is probably the follwoing: will those fluctuations look acceptable to the potential user community (consumers, businesses, etc.) in order to build trust in this new currency and build a wide-scale and sustainable ecosystem on the long term?
+But the ultimate question is probably the following: will those fluctuations look acceptable to the potential user community (consumers, businesses, etc.) in order to build trust in this new currency and build a wide-scale and sustainable ecosystem on the long term?
 
 The effective &quot;birth&quot; of Libra is still somewhat remote, and many details of its exact shape remain to be negotiated with authorities and then be discussed / accepted in the upcoming Libra community. So, the months to come will deliver answers to those questions.
 
-If our charts inspire you for remarks or additional questions, the comment section below is wide open for this purpose!
+If our analysis inspires you for remarks or additional questions, the comment section below is wide open for this purpose!
 
 ##### _Computation_
 
