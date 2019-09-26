@@ -94,16 +94,16 @@ To detail the equations that we use but make them initially simpler, let's back 
 3) Consequently, 
     Vt0(Libra) = Ct0(EUR)*Qt0(EUR) + Ct0(GBP)*Qt0(GBP)
              
-4) Let's know find the fluctuation of the value of the Libra Reserve at new time t1 as quantities remains thhe same
+4) Let's know find the fluctuation of the value of the Libra Reserve at new time t1 as quantities remain invariant
 
              Vt1(Libra) = Ct1(EUR)*Qt0(EUR) + Ct1(GBP)*Qt0(GBP)
                         = Ct1(EUR)*(Vt0(EUR)/Ct0(EUR) + Ct1(GBP)*(Vt0(GRP)/Ct0(GBP)
                         = Ct1(EUR)*((Vt0(Libra)*r(EUR))/Ct0(EUR)) + Ct1(EUR)*((Vt0(Libra)*r(GBP))/Ct0(GBP))
                         = Vt0(Libra) (r(EUR) * Ct1(EUR)/Ct0(EUR) + R(GBP) * Ct1(GBP)/Ct0(GBP))
                         
-So, at any given moment in time, the value of the Libra Reserve is the intial value multiplied by the weighted sum of the change ratio between current time and reference time. The weights are the ratios defined during design of the basket.
+So, at any given moment in time, the value of the Libra Reserve is its initial value multiplied by the weighted sum of the price (i.e. exchange rate) between current time and reference time. The weights are the ratios defined during design of the basket.
 
-The example above has been computed with 2 fiat currencies in the basket but the formula above extends to all the currencies of the official Libra basket
+The example above has been computed with 2 fiat currencies in the basket but, to come back to real situation, the formula above extends to all the currencies of the official Libra basket as
 
     Vt1(Libra) = Vt0(Libra) 
                    * (r(USD) * Ct1(USD)/Ct0(USD) 
@@ -115,4 +115,4 @@ The example above has been computed with 2 fiat currencies in the basket but the
                   
 with r(USD)= 0.5, r(EUR)=0.18, r(GBP)=0.14, r(JPY)=0.11, r(SGD)=0.07. Of course, Ct0(USD) = Ct1(USD) = Ctn(USD) = 1 as the dollar is chosen as reference here.
 
-This final formula is the one applied
+This final formula is the one applied in the creation of Figure 1 and in the extraction of the numbers in Table 2.
