@@ -48,7 +48,7 @@ But, for Libra as a stablecoin, the challenge may be different: its designers pr
 
 So, in Figure 1 above, to see what the future could look like based on history, for each currency in the Libra basket, we&#39;ve taken its exchange rate to the US dollar (as worldwide leading and reference currency), as published by the European Central Bank (ECB) since 1999 to see how this design satisfies the stability purpose. This chart represents the relative value of the depicted currencies to the USD, taking the current exchange rate as of Sept 23, 2019 as 100% for each of them. The historical value of Libra is computed based on the weighted sum corresponding to its structure. See final section Computation for details on the formula. It may seem unusual to take reference today and then go back in time,but we believe that it makes analysis easier in this specific situation. 
 
-The table 2 below reports the maximum and minimum values to the dollar over those 20 years:
+The table 2 below reports the maximum and minimum values to the dollar over those 20 years compared to their value of September, 23rd 2019:
 
 ![Table 2 - Libra and basket currencies versus USD: 1999 -> 2019](https://www.chaingrok.com/img/Chaingrok-Libra-and-basket-currencies-peak-fluctuations-1999-2019.png "Table 2 - Libra and basket currencies versus USD: 1999 -> 2019 ")
         Table 2 - Libra and basket currencies up/down peaks versus USD: 1999 -> 2019
@@ -96,14 +96,14 @@ Anyway, let's mathematically describe how the value of this simplified basket ev
 
     Vt0(Libra) = Ct0(EUR)*Qt0(EUR) + Ct0(GBP)*Qt0(GBP)
              
-4) Let's know find the fluctuation of the value of the Libra Reserve at new time t1 as quantities remain invariant
+4) Let's now find the fluctuation of the value of the Libra Reserve at new time t1 as quantities remain invariant:
 
              Vt1(Libra) = Ct1(EUR)*Qt0(EUR) + Ct1(GBP)*Qt0(GBP)
                         = Ct1(EUR)*(Vt0(EUR)/Ct0(EUR)) + Ct1(GBP)*(Vt0(GRP)/Ct0(GBP))
                         = Ct1(EUR)*((Vt0(Libra)*r(EUR))/Ct0(EUR)) + Ct1(GBP)*((Vt0(Libra)*r(GBP))/Ct0(GBP))
                         = Vt0(Libra) * ((r(EUR) * Ct1(EUR)/Ct0(EUR) + r(GBP) * Ct1(GBP)/Ct0(GBP))
                         
-So, at any given moment in time, the value of the Libra Reserve is its initial value multiplied by the weighted sum of the price (i.e. exchange rate) between current time and reference time. The weights are the ratios defined during design of the basket.
+So, at any given moment in time, the value of the Libra Reserve is its initial value multiplied by the weighted sum of the price (i.e. exchange rate) between current time and reference time. The weights are the ratios defined during the design of the basket.
 
 The example above has been computed with 2 fiat currencies in the basket but, to come back to real situation, the formula above extends to all the currencies of the official Libra basket as
 
