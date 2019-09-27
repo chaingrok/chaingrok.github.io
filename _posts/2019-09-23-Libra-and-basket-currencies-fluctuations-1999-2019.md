@@ -74,9 +74,13 @@ If our analysis inspires you for remarks or additional questions, the comment se
 
 ##### _Computation_
 
-To detail the equations that we use but make them initially simpler, let's back Libra by only 2 fiat currencies in its basket : 60% EUR and 40% GBP both priced in USD over time as it is our reference fiat currency
+The curves in Figure 1 are based on a static situation allowing a better understanding of the fluctuations: 10 members of the Libra Association bring their 10 millions USD contribution as required by the Libra whitepaper.
+6 of them bring this amount in Euros while 4 of them bring it in British Pounds. It will make the equations simpler to write since only 2 currencies in its basket : 60% EUR and 40% GBP both priced in USD over time as it is our reference fiat currency. 
 
-1) Let's call Vt0(Libra) the intial value of the Libra Reserve at time t0 in the reference currency (USD here). So,
+This fixed basket is (much) simpler than the reality will be: it doesn't take into account end-user activity (consumers acquiring / redeeming Libras), partner activity (partners entering / leaving the association), trading activity (reserve funds invested in government bonds).
+Anyway, let's mathematically describe how the value of this simplified basket evolve:
+
+1) Let's call Vt0(Libra) the intiial value of the Libra Reserve at time t0 in the reference currency (USD here). So,
 
     Vt0(Libra) = Vt0(EUR) + Vt0(GBP)
 
