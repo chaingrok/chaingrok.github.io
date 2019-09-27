@@ -90,7 +90,7 @@ To detail the equations that we use but make them initially simpler, let's back 
     
 3) Consequently, 
 
-    Vt0(Libra) = Ct0(EUR)\*Qt0(EUR) + Ct0(GBP)\*Qt0(GBP)
+    Vt0(Libra) = Ct0(EUR)*Qt0(EUR) + Ct0(GBP)*Qt0(GBP)
              
 4) Let's know find the fluctuation of the value of the Libra Reserve at new time t1 as quantities remain invariant
 
