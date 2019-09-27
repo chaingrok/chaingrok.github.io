@@ -87,7 +87,7 @@ Anyway, let's mathematically describe how the value of this simplified basket ev
     with Vt0(EUR) = Vt0(Libra) * r(EUR) where r(EUR) represents the ratio of EUR in the basket: 0.6 in our case
          Vt0(GBP) = Vt0(Libra) * r(GBP) where r(GBP) = 0.4 in our case
 
-2) Then, Qt0(EUR) represents the quantity of EUR at t0 and Qt 0(GBP) represents the quantity of GBP at t0. So,
+2) Then, QtO(EUR) represents the quantity of EUR at tO and QtO(GBP) represents the quantity of GBP at tO. So,
 
     Qt0(EUR) = Vt0(EUR)/Ct0(EUR) where Ct0(EUR) represents the cost (i.e. exchange rate) of EUR in reference currency (USD in our case)
     Qt0(GBP) = Vt0(GBP)/Ct0(GBP) where Ct0(GBP) represents the cost of GBP in reference currency (USD in our case)
