@@ -117,4 +117,4 @@ The example above has been computed with 2 fiat currencies in the basket but, to
                   
 with r(USD)= 0.5, r(EUR)=0.18, r(GBP)=0.14, r(JPY)=0.11, r(SGD)=0.07. Of course, Ct0(USD) = Ct1(USD) = Ctn(USD) = 1 as the dollar is chosen as reference here.
 
-This final formula is the one applied in the creation of Figure 1 and in the extraction of the numbers in Table 2.
+This final formula is the one applied in the creation of Figure 1 and in the extraction of the numbers in Table 2 with t0 being September, 23rd 2019.
