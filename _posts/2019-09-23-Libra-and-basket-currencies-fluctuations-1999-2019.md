@@ -80,14 +80,14 @@ The curves in Figure 1 are based on a static situation allowing a better underst
 This fixed basket is (much) simpler than the reality will be: it doesn't take into account end-user activity (consumers acquiring / redeeming Libras), partner activity (partners entering / leaving the association), trading activity (reserve funds invested in government bonds).
 Anyway, let's mathematically describe how the value of this simplified basket evolve:
 
-1) Let's call Vt0(Libra) the intiial value of the Libra Reserve at time t0 in the reference currency (USD here). So,
+1) Let's call Vt0(Libra) the initial value of the Libra Reserve at time t0 in the reference currency (USD here). So,
 
     Vt0(Libra) = Vt0(EUR) + Vt0(GBP)
 
     with Vt0(EUR) = Vt0(Libra) * r(EUR) where r(EUR) represents the ratio of EUR in the basket: 0.6 in our case
          Vt0(GBP) = Vt0(Libra) * r(GBP) where r(GBP) = 0.4 in our case
 
-2) Then, Qt0(EUR) represents the quantity of EUR at t0 and Qt0(GBP) represents the quantity of GBP at t0. So,
+2) Then, Qt 0(EUR) represents the quantity of EUR at t 0 and Qt 0(GBP) represents the quantity of GBP at t 0. So,
 
     Qt0(EUR) = Vt0(EUR)/Ct0(EUR) where Ct0(EUR) represents the cost (i.e. exchange rate) of EUR in reference currency (USD in our case)
     Qt0(GBP) = Vt0(GBP)/Ct0(GBP) where Ct0(GBP) represents the cost of GBP in reference currency (USD in our case)
