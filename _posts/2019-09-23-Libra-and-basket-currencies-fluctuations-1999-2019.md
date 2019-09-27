@@ -32,7 +32,7 @@ Why so? Probably because Libra wants to be:
 
 But, more importantly, by mixing several fiat currencies in its underlying basket, the Libra Association tries to achieve the mathematical stability fostered by the purpose of its cryptocurrency: averaging over several rock-solid, large-scale and well trusted fiat currencies should reduce the valuation &quot;bumps&quot;.
 
-Indeed, the financial structure of Libra is based on the same principles as the [Special Drawing Rights](https://en.wikipedia.org/wiki/Special\_drawing\_rights) (SDR) of the International Monetary Fund (IMF). The shares in the SDR basket are [structured in the following manner](https://en.wikipedia.org/wiki/Special\_drawing\_rights#Currency\_basket):
+Indeed, the financial structure of Libra is based on the same principles as the [Special Drawing Rights](https://en.wikipedia.org/wiki/Special_drawing_rights) (SDR) of the International Monetary Fund (IMF). The shares in the SDR basket are [structured in the following manner](https://en.wikipedia.org/wiki/Special_drawing_rights#Currency_basket):
 
 1. US dollar: 41.73%
 2. Euro: 30.93%
@@ -94,9 +94,9 @@ To detail the equations that we use but make them initially simpler, let's back 
 4) Let's know find the fluctuation of the value of the Libra Reserve at new time t1 as quantities remain invariant
 
              Vt1(Libra) = Ct1(EUR)*Qt0(EUR) + Ct1(GBP)*Qt0(GBP)
-                        = Ct1(EUR)*(Vt0(EUR)/Ct0(EUR) + Ct1(GBP)*(Vt0(GRP)/Ct0(GBP)
-                        = Ct1(EUR)*((Vt0(Libra)*r(EUR))/Ct0(EUR)) + Ct1(EUR)*((Vt0(Libra)*r(GBP))/Ct0(GBP))
-                        = Vt0(Libra) (r(EUR) * Ct1(EUR)/Ct0(EUR) + R(GBP) * Ct1(GBP)/Ct0(GBP))
+                        = Ct1(EUR)*(Vt0(EUR)/Ct0(EUR)) + Ct1(GBP)*(Vt0(GRP)/Ct0(GBP))
+                        = Ct1(EUR)*((Vt0(Libra)*r(EUR))/Ct0(EUR)) + Ct1(GBP)*((Vt0(Libra)*r(GBP))/Ct0(GBP))
+                        = Vt0(Libra) * ((r(EUR) * Ct1(EUR)/Ct0(EUR) + r(GBP) * Ct1(GBP)/Ct0(GBP))
                         
 So, at any given moment in time, the value of the Libra Reserve is its initial value multiplied by the weighted sum of the price (i.e. exchange rate) between current time and reference time. The weights are the ratios defined during design of the basket.
 
